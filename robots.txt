@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepohloht.2my.sk/sitemap.xml
